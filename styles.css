@@ -9,3 +9,7 @@ h2{
     background-color: rgb(26, 27, 28);
     color: rgb(155, 155, 155)
 }
+
+#Profile_Picture{
+    align-self: center;
+}
