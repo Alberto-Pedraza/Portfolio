@@ -12,4 +12,12 @@ h2{
 
 #Profile_Picture{
     align-self: center;
+    border-radius: 50%;
+    width: 75%;
+}
+
+@media (max-width: 768px){
+    #Profile_Picture{
+    max-width: 200px;
+    }
 }
