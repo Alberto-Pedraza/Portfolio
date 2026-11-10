@@ -1,7 +1,11 @@
 body{
-    background-color: rgb(71, 70, 70);
-    color: aliceblue;
+    background-color: rgb(57, 57, 57);
+    color: rgb(155, 155, 155)
 }
 h2{
     text-align: center;
+}
+.card{
+    background-color: rgb(26, 27, 28);
+    color: rgb(155, 155, 155)
 }
